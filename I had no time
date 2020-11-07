@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int num;
+    printf("Enter a number: ");
+	scanf("%d",&num);
+	printf("You entered %d and i rly dont care so you get a normal a** diamond",num);
+    printf("\n""♦");
+    
+
+    return 0;
+}
