@@ -11,3 +11,5 @@ int main()
 
     return 0;
 }
+
+// I mean it compiles without error and its as efficient as it can be, so 15/10 : )
